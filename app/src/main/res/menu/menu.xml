@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.javierms.mytimer">
+    <item
+        android:id="@+id/btnMenuMyTeams"
+        android:title="title1"
+        app:showAsAction="withText"
+        />
+    <item
+        android:id="@+id/btnMenuNewTeam"
+        android:title="title2"
+        />
+</menu>
